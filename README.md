@@ -1,0 +1,1 @@
+This repository demonstrates a common Objective-C bug involving improper handling of weak delegates and the resulting premature deallocation.  The `bug.m` file contains code that exhibits this issue.  The solution, provided in `bugSolution.m`, illustrates correct memory management practices and strategies to avoid such crashes.
